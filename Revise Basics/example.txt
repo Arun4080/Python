@@ -1,0 +1,3 @@
+Hello everyone.
+this is a txt file.
+let's read this file.
