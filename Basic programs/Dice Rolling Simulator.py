@@ -1,4 +1,4 @@
-# dice rolling simulator 1
+# dice rolling simulator
 
 import random
 
