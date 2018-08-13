@@ -13,12 +13,12 @@ def index():
     db=connection.test
 
     #get handler for name collection
-    name= db.names
+    name= db.names #put your collection name in place of names
 
     #find a single document
     item=name.find_one()
 
-    return('<b>Hello %s!<b>' %item['name'])
+    return('<b>Hello %s!<b>' %item['name']) #name your field name in place of 'names'
 
 bottle.run(host='localhost', port=8082)
 
