@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Expression Based Music Player/.idea/Expression Based Music Player.iml" filepath="$PROJECT_DIR$/../Expression Based Music Player/.idea/Expression Based Music Player.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Extra/.idea/Extra.iml" filepath="$PROJECT_DIR$/../Extra/.idea/Extra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Machine-Learning/.idea/Machine-Learning.iml" filepath="$PROJECT_DIR$/../Machine-Learning/.idea/Machine-Learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../NLTK/.idea/NLTK.iml" filepath="$PROJECT_DIR$/../NLTK/.idea/NLTK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Python.iml" filepath="$PROJECT_DIR$/.idea/Python.iml" />
+    </modules>
+  </component>
+</project>

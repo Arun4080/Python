@@ -1,5 +1,16 @@
-nterms = int(input("How many terms? "))
+num = int(input("How many terms? "))
+n=[0,1]
+[n.append(n[i-1]+n[i-2]) for i in range(2,num)]
+print(n)
 
+'''
+#from 0 to num
+x,y=0,1
+while y<num:
+  print(y)
+  x,y=y,x+y
+
+or
 # first two terms
 n1 = 0
 n2 = 1
@@ -20,3 +31,4 @@ else:
        n1 = n2
        n2 = nth
        count += 1
+'''
